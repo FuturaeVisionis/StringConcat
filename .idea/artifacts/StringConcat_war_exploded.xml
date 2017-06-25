@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="StringConcat:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/StringConcat_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="StringConcat/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="StringConcat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
